@@ -16,4 +16,6 @@
 
 # Stack
 
+# All Type Sort
+
 ---
